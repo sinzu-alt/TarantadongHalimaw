@@ -1,0 +1,14 @@
+{
+  "name": "fb-troll-bot",
+  "version": "1.0.0",
+  "description": "FB Auto-Reply Troll Bot via Dashboard with Admin ID Filtering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "biar-fca": "^1.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
